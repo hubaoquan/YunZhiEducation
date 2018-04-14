@@ -1,0 +1,4 @@
+#Sat Apr 14 21:11:16 CST 2018
+base.0=D\:\\AndroidWorkspace\\YunZhiEduction\\palmCampus\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

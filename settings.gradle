@@ -1,0 +1,3 @@
+include ':viewPagerIndicatorLibrary'
+include ':library'
+include ':palmCampus'

@@ -1,0 +1,43 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "26.0.2"
+    useLibrary 'org.apache.http.legacy'
+    defaultConfig {
+        applicationId "com.zxm.palmcampus"
+        minSdkVersion 19
+        targetSdkVersion 26
+        multiDexEnabled true
+        dexOptions {
+
+            javaMaxHeapSize "4g"
+
+        }
+    }
+
+    buildTypes {
+        release {
+            zipAlignEnabled true
+        }
+        debug {
+            signingConfig signingConfigs.debug
+            debuggable true
+            zipAlignEnabled false
+        }
+    }
+}
+
+dependencies {
+    compile project(':library')
+    compile project(':viewPagerIndicatorLibrary')
+    implementation 'com.android.support:appcompat-v7:26.1.0'
+
+    implementation 'com.jakewharton:butterknife:8.8.1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
+
+    compile files('libs/xUtils-2.6.14.jar')
+    //Bmob依赖库
+    compile 'cn.bmob.android:bmob-sdk:3.5.5'
+    compile 'cn.bmob.android:http-legacy:1.0'
+}

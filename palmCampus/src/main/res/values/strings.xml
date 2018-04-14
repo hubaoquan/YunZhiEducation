@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">云智教育</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_title">用户登录</string>
+	<string name="login_username"> 学   号：</string>
+    <string name="login_password"> 密    码：</string>
+    <string name="btn_login"> 登录</string>
+   	<string name="btn_regist"> 注册</string>
+   	<string name="login_checkbox">记住密码</string>
+   	<string name="login_introduce">云智教育</string>
+	<string name="strAccInputLabel">帐号</string>
+    <string name="strPswInputLabel">密码</string>
+    <string name="home_content">
+       \t\t\t\t文思海辉技术有限公司的前身分别是文思创新软件技术有限公司和海辉软件（国际）集团公司，这两家公司都是软件外包服务提供商。
+        2012 年 8 月两家公司宣布合并，合并后中文名为“文思海辉技术有限公司”，英文名称为“Pactera”。
+        合并后，拥有 2 万多名员工，一跃成为中国最大的软件外包服务公司。2013 年10 月，文思海辉被黑石集团 6.25 亿美元收购。
+        2017 年，文思海辉加入海航集团，海航集团现居世界 500 强榜单第 170 位，年度总收入约 6000 亿元人民币，文思海辉目前是海航集团旗下的科技创新旗舰企业，
+        将近 3 万员工。是知名的咨询与科技服务提供商，拥有超强的全球运营能力、严格的质量标准和高效的交付流程，致力于成为全球企业“新时代的合作伙伴”，为客户成功保驾护航。 </string>
+    <string name="tab_1">日程</string>
+	<string name="tab_2">周末</string>
+	<string name="tab_3">计划</string>
+    
+    
+</resources>
