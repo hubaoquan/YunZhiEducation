@@ -1,37 +1,37 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:1-6:12
-INJECTED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:1-6:12
-INJECTED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:1-6:12
-INJECTED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:1-6:12
-INJECTED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:1-6:12
-INJECTED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:1-6:12
-INJECTED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:1-6:12
+ADDED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:1-6:12
 	package
-		ADDED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:4:5-37
-		INJECTED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:1-6:12
-		INJECTED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:1-6:12
-		INJECTED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:11-69
+		ADDED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:11-69
 uses-sdk
-INJECTED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
-INJECTED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
-INJECTED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
-INJECTED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidWorkspace\YunZhiEduction\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidWorkspace\YunZhiEducation\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
