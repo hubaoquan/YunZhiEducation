@@ -1,3 +1,0 @@
-# Referenced at D:\AndroidWorkspace\YunZhiEducation\palmCampus\build\intermediates\manifests\full\debug\AndroidManifest.xml:24
--keep class android.support.multidex.MultiDexApplication { <init>(...); }
-
